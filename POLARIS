@@ -1,1 +1,1 @@
-task.spawn(function()loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/ddf16ff7ace1dd74d094a71e738d993b53dd84a7940cb937901009ef35c6fbd1/download"))()end)loadstring(game:HttpGet("https://pastefy.app/uOGPY7V5/raw"))()
+task.spawn(function()loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/ddf16ff7ace1dd74d094a71e738d993b53dd84a7940cb937901009ef35c6fbd1/download"))()end)loadstring(game:HttpGet("https://pastefy.app/15gJEM25/raw"))()
