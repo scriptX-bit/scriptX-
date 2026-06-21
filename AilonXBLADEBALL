@@ -37,7 +37,8 @@ Tab:CreateButton({
          Duration = 7,
       })
 -- ETONG LOADSTRING PALITAN NYO DITO NIYO LALAGAY YUNG AUTO PARRY SCRIPT NYO
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptX-bit/scriptX-/refs/heads/main/SsinfonnyHUBX"))(),
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptX-bit/scriptX-/refs/heads/main/SsinfonnyHUBX"))()
+end,
 })
 
 Tab:CreateSection("Settings")
