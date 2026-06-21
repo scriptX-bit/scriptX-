@@ -4,10 +4,10 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 -- DITO ANG PAPALITAN NYO LANG IS Name lalagay nyo don title ng script niyo pati yang Loading title
 local Window = Rayfield:CreateWindow({
-   Name = "Ailon",
+   Name = "AilonHUB",
    Icon = 0,
-   LoadingTitle = "Ailon",
-   LoadingSubtitle = "Ailon Auto Parry KEYLESS",
+   LoadingTitle = "AilonHUB",
+   LoadingSubtitle = "Ailon Auto Parry *KEYLESS*",
    Theme = "DarkBlue",
 
    ToggleUIKeybind = "K",
@@ -29,10 +29,10 @@ Tab:CreateSection("Scripts")
 
 -- Dito palitan niyo yang Name pati title same sa script name nyo
 Tab:CreateButton({
-   Name = "🟢 AILON*KEYLESS*",
+   Name = "🟢 AILON*ClickHere*",
    Callback = function()
       Rayfield:Notify({
-         Title = "Ailon",
+         Title = "AilonHUB",
          Content = "Loading Script...",
          Duration = 7,
       })
@@ -59,7 +59,7 @@ Tab:CreateButton({
 
 -- ETO PALITAN NYO RIN SAME NG NAME NG AUTO PARRY SCRIPT NYO
 Rayfield:Notify({
-   Title = "Ailon",
+   Title = "AilonHUB",
    Content = "Loading scripts... please wait",
    Duration = 7,
 })
