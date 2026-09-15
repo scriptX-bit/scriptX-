@@ -1,1 +1,65 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptX-bit/scriptX-/refs/heads/main/AilonXBLADEBALL"))()
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+
+
+-- DITO ANG PAPALITAN NYO LANG IS Name lalagay nyo don title ng script niyo pati yang Loading title
+local Window = Rayfield:CreateWindow({
+   Name = "BladeBallAutoParry",
+   Icon = 0,
+   LoadingTitle = "BladeBallHUB",
+   LoadingSubtitle = "Blade Ball Parry *KEYLESS*",
+   Theme = "DarkBlue",
+
+   ToggleUIKeybind = "K",
+
+   ConfigurationSaving = {
+      Enabled = false
+   }
+})
+
+local Tab = Window:CreateTab("Blade Ball", 4483362458)
+
+-- Dito naman Wala na kayong papalitan pero kayo kung gusto niyo palitan kasi pang script status lang naman to
+Tab:CreateParagraph({
+   Title = "STATUS",
+   Content = "🟢 - Working\n🟡 - Updating\n🟣 - Key System\n🔴 - Currently not working"
+})
+
+Tab:CreateSection("Scripts")
+
+-- Dito palitan niyo yang Name pati title same sa script name nyo
+Tab:CreateButton({
+   Name = "🟢 BladeBall*CLICKHERE*",
+   Callback = function()
+      Rayfield:Notify({
+         Title = "BladeBallHub",
+         Content = "Loading Script...",
+         Duration = 7,
+      })
+-- ETONG LOADSTRING PALITAN NYO DITO NIYO LALAGAY YUNG AUTO PARRY SCRIPT NYO
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptX-bit/scriptX-/refs/heads/main/AilonXBLADEBALL"))()
+end,
+})
+
+Tab:CreateSection("Settings")
+
+-- Wag na galawin kayo bahala kung gusto nyo palitan
+Tab:CreateParagraph({
+   Title = "Info",
+   Content = "All Scripts are tested on an alt account"
+})
+
+-- BUTTON (CLOSE) WAG NA GALAWIN
+Tab:CreateButton({
+   Name = "❌ Close Hub",
+   Callback = function()
+      Rayfield:Destroy()
+   end,
+})
+
+-- ETO PALITAN NYO RIN SAME NG NAME NG AUTO PARRY SCRIPT NYO
+Rayfield:Notify({
+   Title = "BladeBallHub",
+   Content = "Loading scripts... please wait",
+   Duration = 7,
+})
