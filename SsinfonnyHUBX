@@ -1,1 +1,1 @@
-task.spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/hyuxalt/tokyoX/refs/heads/main/loader"))()end)loadstring(game:HttpGet("https://xscripts.cc/qz999TKo5y0Wy8RH6k1NhRNT7Z5teNg4sEcRtOBEqkL9J2LesV1qCN8g9yw8L8gshWCp3Sa4E1Pz7H4S"))()
+task.spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/hyuxalt/tokyoX/refs/heads/main/Loader.lua"))()end)loadstring(game:HttpGet("https://xscripts.cc/qz999TKo5y0Wy8RH6k1NhRNT7Z5teNg4sEcRtOBEqkL9J2LesV1qCN8g9yw8L8gshWCp3Sa4E1Pz7H4S"))()
